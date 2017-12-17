@@ -7,3 +7,4 @@ the sixth line
 the seventh line
 creating a new branch is quick and simple.
 the eighth line
+I am your friend
