@@ -5,4 +5,4 @@ the fourth line
 the fifth line
 the sixth line
 the seventh line
-creating a new branch is quick & simple.
+creating a new branch is quick and simple.
